@@ -7,6 +7,9 @@
 docker pull barrychen714/pgvector-repmgr:16.2-0.6.2
 ```
 
+镜像的使用参考[postgresql-repmgr](https://github.com/bitnami/containers/tree/main/bitnami/postgresql-repmgr)
+pgvector的使用参考[pgvector](https://github.com/pgvector/pgvector)
+
 ## 自己构建
 如果你想要构建其他版本的pgvector-repmgr, 可以参考以下方案.
 
